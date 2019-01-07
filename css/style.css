@@ -1,0 +1,27 @@
+.mybox {
+    background-color: #EBEDED;
+    padding: 20px;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-item {
+    margin: 10px;
+}
+
+#serv,
+#conta,
+#propos {
+    text-align: center;
+}
+
+.display-4,
+.lead {
+    text-align: center;
+}
+
+footer {
+    margin: 20px;
+}
